@@ -1,4 +1,6 @@
 # task-manager-swuftui
+
+ToDoList app allows users to create, view, and manage tasks, with options for filtering tasks by date and marking tasks as completed or pending. It provides an intuitive and user-friendly interface for managing a list of tasks.
  
 ![Simulator Screenshot - iPhone 14 Pro - 2023-06-08 at 16 16 20](https://github.com/cannt39t/task-manager-swuftui/assets/102318358/dc467231-0619-465f-a5be-2a82467f4d5b)
 ![Simulator Screenshot - iPhone 14 Pro - 2023-06-08 at 16 16 50](https://github.com/cannt39t/task-manager-swuftui/assets/102318358/f027019a-cbd1-42fd-aa21-24c8e55e58ca)
